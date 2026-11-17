@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+.gradio/
+chroma_db/chroma.sqlite3-shm
+chroma_db/chroma.sqlite3-wal
